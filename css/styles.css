@@ -1,0 +1,28 @@
+/* add your CSS here */
+
+.animal-card{
+    border: 1px solid grey;
+    width: 300px;
+    padding: 0 20px 20px 20px;
+    box-shadow: 10px 15px 50px black;
+}
+
+.animal-info{
+    border: 1px solid #D6D6D6;
+    padding: 3px 15px;
+    margin-top: 15px;
+}
+
+.fun-fact{
+    font-style: italic;
+}
+
+.info-list{
+    list-style-type: none;
+    padding: 0;
+}
+
+.list-title{
+    font-weight: bold;
+}
+
